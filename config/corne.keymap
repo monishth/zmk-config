@@ -94,10 +94,10 @@
         SYM {
             display-name = "Sym";
             bindings = <
-&none  &kp LBRC   &kp AMPS  &kp ASTRK  &kp LPAR   &kp RBRC     &none  &u_to_U_BASE  &u_to_U_EXTRA  &u_to_U_TAP  &bootloader  &none
-&none  &kp COLON  &kp DLLR  &kp PRCNT  &kp CARET  &kp PLUS     &none  &kp LSHFT     &kp LCTRL      &kp LALT     &kp LGUI     &none
-&none  &kp TILDE  &kp EXCL  &kp AT     &kp HASH   &kp PIPE     &none  &u_to_U_SYM   &u_to_U_MOUSE  &kp RALT     &none        &none
-                            &kp LPAR   &kp RPAR   &kp UNDER    &none  &none         &none
+&none  &kp AT     &kp HASH   &kp ASTRK  &kp CARET  &kp PLUS     &none  &u_to_U_BASE  &u_to_U_EXTRA  &u_to_U_TAP  &bootloader  &none
+&none  &kp LBRC   &kp LPAR   &kp LBKT   &kp DLLR   &kp EXCL     &none  &kp LSHFT     &kp LCTRL      &kp LALT     &kp LGUI     &none
+&none  &kp RBRC   &kp RPAR   &kp RBKT   &kp PIPE   &kp GRAVE      &none  &u_to_U_SYM   &u_to_U_MOUSE  &kp RALT     &none        &none
+                            &kp DOT    &kp COMMA  &kp MINUS    &none  &none         &none
             >;
         };
 
