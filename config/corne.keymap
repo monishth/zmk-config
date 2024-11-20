@@ -95,7 +95,7 @@
         SYM {
             display-name = "Sym";
             bindings = <
-&none  &kp AT    &kp HASH  &kp ASTRK  &kp CARET  &mm_plus     &none  &u_to_U_BASE  &u_to_U_EXTRA  &u_to_U_TAP  &bootloader  &none
+&none  &kp AT    &kp HASH  &kp ASTRK  &kp CARET  &kp EQUAL    &none  &u_to_U_BASE  &u_to_U_EXTRA  &u_to_U_TAP  &bootloader  &none
 &none  &kp LBRC  &kp LPAR  &kp LBKT   &kp DLLR   &kp EXCL     &none  &kp LSHFT     &kp LCTRL      &kp LALT     &kp LGUI     &none
 &none  &kp RBRC  &kp RPAR  &kp RBKT   &kp PIPE   &kp GRAVE    &none  &u_to_U_SYM   &u_to_U_MOUSE  &kp RALT     &none        &none
                            &kp DOT    &kp COMMA  &kp MINUS    &none  &none         &none
